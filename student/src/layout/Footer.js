@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
 function Footer() {
   return (
-    <footer className="footer bg-dark d-flex justify-content-center align-items-center">
-      <p className='mt-3'>Create By @ Peerapat Waiborrisoot</p>
+    <footer className="footer d-flex bg-dark justify-content-center align-itmes-center">
+      <p className='mt-3'>Create By @Peerapat Waiborrisoot</p>
     </footer>
   )
 }
 
-export default Footer;
+export default Footer
